@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-image: url(c36cc3880ce95a0865ad6b810e4e2b4d.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+h1{
+    color: blue rgba(84, 10, 4, 0.648);
+
+
+}
+
+#mycanvas{
+    background-color: rgb(178, 173, 183);
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: black;
+    color: aqua;
+
+}
+
+
